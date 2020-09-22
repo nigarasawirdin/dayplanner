@@ -30,11 +30,7 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-The following animation demonstrates the application functionality:
-
-![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
-
 ## Creators
 Project created by: Nigara Sawirdin
 
-Github: https://nigarasawirdin.github.io/dayplanner/
+Github Link: https://nigarasawirdin.github.io/dayplanner/
